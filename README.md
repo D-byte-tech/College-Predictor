@@ -3,5 +3,4 @@ The project is a college prediction system with a login page and predictor syste
 Technologies Used :- HTML , CSS , PHP , JAVASCRIPT , SQL
 Server : Apache server using XAMPP.
 
-Contributed by :
-Vishal Lodhi
+Contributed by : Dikshika Lodi
